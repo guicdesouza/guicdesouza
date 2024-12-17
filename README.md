@@ -1,4 +1,4 @@
-Oi, eu sou o Guilherme, ou ![Gui C de Souza](https://guicdesouza.com.br).
+Oi, eu sou o Guilherme, ou [guicdesouza](https://guicdesouza.com.br).
 
 Estou começando a aprender programação pra tentar ganhar muito dinheiro (não vou).
 No momento tô tentando aprender Python.
